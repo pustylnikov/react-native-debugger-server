@@ -1,3 +1,6 @@
+
+![Console image](https://storage.googleapis.com/anvilapp/npm-pictures/react-native-debugger/console.jpg)
+
 ### Installation
 ```js
 npm install -g @anvilapp/react-native-debugger-server
