@@ -1,6 +1,6 @@
 {
   "name": "@anvilapp/react-native-debugger-server",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React-native remote debugger server",
   "main": "debugger.js",
   "author": "yura.pustylnikov@gmail.com",
